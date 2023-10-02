@@ -84,7 +84,8 @@
           "src": "assets/icons/48x48.png",
           "sizes": "48x48"
         }
-      ]
+      ],
+      "edge_side_panel": {}
     }
   ]
 }
